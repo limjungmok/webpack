@@ -2,4 +2,9 @@ body {
   color: #fff;
   background-color: orange;
   font-size: 20px;
-  opacity: 0.9; }
+  opacity: 0.9;
+  border-radius: 1px;
+  text-align: center;
+  transform: rotate(0); }
+
+/*# sourceMappingURL=app.css.map*/
